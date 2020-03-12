@@ -33,17 +33,18 @@ Suggestions welcomed (see contributing).
 
 ## Paid software
 
-This is professional grade software highly regarded in tech community.
+This is professional grade software highly regarded in tech community (or otherwise useful).
 
-1. **Zoom.us** is currently regarded as the best video conferencing software. Works on PC, MAC, Linux, Android, iPhone. Great for work and school. Navigating all the offerings is bit complicated, but overall it is very reliable software that works well even with poor internet connection. There are currently no discounts or special offers, sadly.
-2. **Slack** offers free live help session (20 minutes) for those who want to jump in ([source](https://twitter.com/stewart/status/1237815478535454722)). Doesn't feel like much of an help given the complexity of deploying slack in organisation.
+1. **Zoom.us** is currently regarded as the best video conferencing software. Works on PC, MAC, Linux, Android, iPhone. Great for work and school. Navigating all the offerings is bit complicated, but overall it is very reliable software that works well even with poor internet connection. There are currently no discounts or special offers ([However there is a free version for mainland users and it is reportedly pretty popular, so it might come to rest of the world](https://news.ycombinator.com/item?id=22222121)).
+2. **Miro.com** is basically online whiteboard for teams. Works well, sadly no extended free plans.
+3. **Slack.com** offers free live help session (20 minutes) for those who want to jump in ([source](https://twitter.com/stewart/status/1237815478535454722)). Doesn't feel like much of an help given the complexity of deploying slack in organisation.
 
 ## Resources and reading
 
 1. [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) was not really writing for pandemic outbreak, but it is a fairly comprehensive about remote work based on the world's largest all-remote company with over 1,200 members located in more than 65 countries around the world. It is not really talking about tools, rather issues that might arise within the company, but also issues stemming from being in isolation, such as anxiety.
-2. [Generic tips from @IwillLeaveNow](https://twitter.com/Iwillleavenow/status/1236736080751124480) about transition to remote work environment.
-
-
+2. [MobileJazz handbook](https://mobilejazz.com/company-handbook-pdf/) on remote software, day-to-day etc.
+3. [Generic tips from @IwillLeaveNow](https://twitter.com/Iwillleavenow/status/1236736080751124480) about transition to remote work environment.
+4. [Shopify is giving its employees $1,000 to furnish their work-from-home setups with whatever gear they need because of the coronavirus.](https://www.businessinsider.com/coronavirus-shopify-employees-work-from-home-employees-1000-bonus-office-2020-3) Hope this will inspire other companies.
 
 
 
@@ -65,6 +66,8 @@ Of course traditionally free and open-source software is welcomed too, but pleas
 ## Sources
 
 https://amalgaminsights.com/2020/03/09/work-in-the-time-of-corona-an-alert-for-the-amalgam-community/
+
+https://news.ycombinator.com/item?id=22221507
 
 
 
