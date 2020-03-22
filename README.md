@@ -9,8 +9,10 @@ I have not found any GitHub repo/list with all software, so I'm starting one.
 
 Suggestions welcomed (see contributing).
 
-1. Riot.im vs fb/whatsapp?
-2. Keybase?
+1. **[Jitsi](https://jitsi.org/)** video conferencing is arguably best alternative to zoom.us. Privacy focused, no registration needed and you can run it on your own server. You can run it directly from their homepage, but you might want to find an [instance running in your country](https://framatalk.org/accueil/en/info/). ([ref](https://www.reddit.com/r/selfhosted/comments/flx6jg/jitsi_meet_is_free_open_source_selfhosted/))
+2. **[Riot.im](https://about.riot.im/)** is chat/communication software, that is free, open-source and privacy focused alternative to Discord, Slack, Microsoft Teams but also Facebook Chat/Groups and others. There is web version, but also mobile applications.
+3. **[Keybase.io](https://keybase.io/)** is great mix of chat and developer tools. While I know most developers don't really need suggestion for tools, some companies still send push requests in word document, so maybe try keybase.io, that has fully encrypted chat, 250GB drive + team drive, git and even crypto wallet for some reason. Clients for all operating systems available.
+4. **[Framasoft.org](https://framasoft.org/en/)** hosts a slew of free alternatives to Google tools. Free, privacy focused and transparent. Sadly, not everything is translated into English from French. Thankfully the individual tools listed on this website are usually available elsewhere, so might use this website just as directory.
 
 ## Special software offers
 
@@ -74,6 +76,8 @@ https://news.ycombinator.com/item?id=22221507
 ## Licence
 
 MIT
+
+
 
 ## Tags
 coronavirus, remote work, remote teams, COVID-19
