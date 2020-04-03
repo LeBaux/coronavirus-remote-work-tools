@@ -14,6 +14,10 @@ Suggestions welcomed (see contributing).
 3. **[Keybase.io](https://keybase.io/)** is great mix of chat and developer tools. While I know most developers don't really need suggestion for tools, some companies still send push requests in word document, so maybe try keybase.io, that has fully encrypted chat, 250GB drive + team drive, git and even crypto wallet for some reason. Clients for all operating systems available.
 4. **[Framasoft.org](https://framasoft.org/en/)** hosts a slew of free alternatives to Google tools. Free, privacy focused and transparent. Sadly, not everything is translated into English from French. Thankfully the individual tools listed on this website are usually available elsewhere, so might use this website just as directory.
 
+## Free courses
+
+1. [Pluralsight](https://www.pluralsight.com/offer/2020/free-april-month) offers #freeapril on all of their courses. Focused on programming, ops and security. Solid preparation for real world certs.
+
 ## Paid software (offers and discounts)
 
 1. **[Zoho Remotely](https://www.zoho.com/remotely/)** will remain free till July 1, 2020 by which time we hope the Coronavirus crisis tides over. We wish this is of help to all teams. This suite of tools allows people to tackle most of the typical company needs, when it comes to remote colaboration:
@@ -39,7 +43,7 @@ There is also a dedicated list of more generic SaaS software that is discounted 
 
 This is professional grade software highly regarded in tech community (or otherwise useful).
 
-1. **Zoom.us** is currently regarded as the best video conferencing software. Works on PC, MAC, Linux, Android, iPhone. Great for work and school. Navigating all the offerings is bit complicated, but overall it is very reliable software that works well even with poor internet connection. There are currently no discounts or special offers ([However there is a free version for mainland users and it is reportedly pretty popular, so it might come to rest of the world](https://news.ycombinator.com/item?id=22222121)).
+1. **Zoom.us** is currently regarded as the best video conferencing software. Works on PC, MAC, Linux, Android, iPhone. Great for work and school. Navigating all the offerings is bit complicated, but overall it is very reliable software that works well even with poor internet connection. There are currently no discounts or special offers. [However there is a free version for mainland users and it is reportedly pretty popular, so it might come to rest of the world](https://news.ycombinator.com/item?id=22222121). The app itself has history of privacy and security issues. [It allowed attackers to take over any Mac, recetenly also Windows installations and it shared data with Facebook](https://www.businessinsider.com/zoom-facing-multiple-reported-security-issues-amid-coronavirus-crisis-2020-4). [Zoom's CEO addressed security concerns](4/yQFZy28sY4eSr-Bk1py92gh7xIsDtcQtgYTVWAMhAcmpNNgUQLEVxl4).
 2. **Miro.com** is basically online whiteboard for teams. Works well, sadly no extended free plans.
 3. **Slack.com** offers free live help session (20 minutes) for those who want to jump in ([source](https://twitter.com/stewart/status/1237815478535454722)). Doesn't feel like much of an help given the complexity of deploying slack in organisation.
 
@@ -47,8 +51,9 @@ This is professional grade software highly regarded in tech community (or otherw
 
 1. [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) was not really writing for pandemic outbreak, but it is a fairly comprehensive about remote work based on the world's largest all-remote company with over 1,200 members located in more than 65 countries around the world. It is not really talking about tools, rather issues that might arise within the company, but also issues stemming from being in isolation, such as anxiety.
 2. [MobileJazz handbook](https://mobilejazz.com/company-handbook-pdf/) on remote software, day-to-day etc.
-3. [Generic tips from @IwillLeaveNow](https://twitter.com/Iwillleavenow/status/1236736080751124480) about transition to remote work environment.
-4. [Shopify is giving its employees $1,000 to furnish their work-from-home setups with whatever gear they need because of the coronavirus.](https://www.businessinsider.com/coronavirus-shopify-employees-work-from-home-employees-1000-bonus-office-2020-3) Hope this will inspire other companies.
+3. [Rose&Rex COVID-19 family resources](https://www.roseandrex.com/pages/resources). A list of resources to help keep children engaged, calm and happy despite school closures and social distancing.
+4. [Generic tips from @IwillLeaveNow](https://twitter.com/Iwillleavenow/status/1236736080751124480) about transition to remote work environment.
+5. [Shopify is giving its employees $1,000 to furnish their work-from-home setups with whatever gear they need because of the coronavirus.](https://www.businessinsider.com/coronavirus-shopify-employees-work-from-home-employees-1000-bonus-office-2020-3) Hope this will inspire other companies.
 
 ## Other (hardware)
 
