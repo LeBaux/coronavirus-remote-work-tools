@@ -14,7 +14,7 @@ Suggestions welcomed (see contributing).
 3. **[Keybase.io](https://keybase.io/)** is great mix of chat and developer tools. While I know most developers don't really need suggestion for tools, some companies still send push requests in word document, so maybe try keybase.io, that has fully encrypted chat, 250GB drive + team drive, git and even crypto wallet for some reason. Clients for all operating systems available.
 4. **[Framasoft.org](https://framasoft.org/en/)** hosts a slew of free alternatives to Google tools. Free, privacy focused and transparent. Sadly, not everything is translated into English from French. Thankfully the individual tools listed on this website are usually available elsewhere, so might use this website just as directory.
 
-## Special software offers
+## Paid software (offers and discounts)
 
 1. **[Zoho Remotely](https://www.zoho.com/remotely/)** will remain free till July 1, 2020 by which time we hope the Coronavirus crisis tides over. We wish this is of help to all teams. This suite of tools allows people to tackle most of the typical company needs, when it comes to remote colaboration:
    1. Zoho ShowTime – Engagement and training tool
@@ -33,6 +33,8 @@ Suggestions welcomed (see contributing).
 5. **LogmeIn** is offering “[Emergency Remote Work Kits](https://www.gotomeeting.com/work-remote?clickid=2sBzsl3RUxyORV00EkzjZTwgUknXe5S9swmR2M0&irgwc=1&cid=g2m_noam_ir_aff_cm_pl_ct)” to provide three months of access to meeting (GoToMeeting), webinar (GoToWebinar), remote access (Pro, Central, and GoToMyPC), and support apps (Rescueassist).
 6. **TechSmith** will be providing free access to our screen recording tool, Snagit, and collaboration platform, TechSmith Video Review, for those transitioning to remote learning and working environments. ([source](https://twitter.com/TechSmith/status/1237823886949060613))
 
+There is also a dedicated list of more generic SaaS software that is discounted amidst COVID-19 crisis over at https://saasforcovid.com (lot of affiliate links, though).
+
 ## Paid software
 
 This is professional grade software highly regarded in tech community (or otherwise useful).
@@ -47,6 +49,10 @@ This is professional grade software highly regarded in tech community (or otherw
 2. [MobileJazz handbook](https://mobilejazz.com/company-handbook-pdf/) on remote software, day-to-day etc.
 3. [Generic tips from @IwillLeaveNow](https://twitter.com/Iwillleavenow/status/1236736080751124480) about transition to remote work environment.
 4. [Shopify is giving its employees $1,000 to furnish their work-from-home setups with whatever gear they need because of the coronavirus.](https://www.businessinsider.com/coronavirus-shopify-employees-work-from-home-employees-1000-bonus-office-2020-3) Hope this will inspire other companies.
+
+## Other (hardware)
+
+1. [ragmask.com](https://ragmask.com/) open source face mask.
 
 
 
@@ -80,4 +86,4 @@ MIT
 
 
 ## Tags
-coronavirus, remote work, remote teams, COVID-19
+coronavirus, remote work, remote teams, COVID-19, koronavirus
