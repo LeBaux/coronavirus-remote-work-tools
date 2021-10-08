@@ -13,6 +13,8 @@ Suggestions welcomed (see contributing).
 2. **[Riot.im](https://about.riot.im/)** is chat/communication software, that is free, open-source and privacy focused alternative to Discord, Slack, Microsoft Teams but also Facebook Chat/Groups and others. There is web version, but also mobile applications.
 3. **[Keybase.io](https://keybase.io/)** is great mix of chat and developer tools. While I know most developers don't really need suggestion for tools, some companies still send push requests in word document, so maybe try keybase.io, that has fully encrypted chat, 250GB drive + team drive, git and even crypto wallet for some reason. Clients for all operating systems available.
 4. **[Framasoft.org](https://framasoft.org/en/)** hosts a slew of free alternatives to Google tools. Free, privacy focused and transparent. Sadly, not everything is translated into English from French. Thankfully the individual tools listed on this website are usually available elsewhere, so might use this website just as directory.
+5.  **[Edworking](https://edworking.com)** One platform for you and your team. Try the best experience with everything that you need for a remote work together. Your task, your chats, your files, your videoconferences working together like team.
+
 
 ## Free courses
 
